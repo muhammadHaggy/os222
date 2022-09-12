@@ -19,11 +19,11 @@ I think this a great beginner's tutorial on Linux commands. Simple and straight 
 
 # Week 2
 
-1. [C Language](https://www.youtube.com/watch?v=3lQEunpmtRA)
+1. [C Language](https://www.youtube.com/watch?v=3lQEunpmtRA)<br>
 Relatively short introduction for C language for beginner's. Recommended for people who have coding experiences in another language.
 
-2. [PGP Tutorial](https://www.youtube.com/watch?v=lAblt1Qt_ng)
+2. [PGP Tutorial](https://www.youtube.com/watch?v=lAblt1Qt_ng)<br>
 Quick tutorial for using PGP. Although he uses a tool with GUI, the concept of PGP remain the same for the user of GPG.
 
-3. [How RSA Works](https://www.youtube.com/watch?v=4zahvcJ9glg)
+3. [How RSA Works](https://www.youtube.com/watch?v=4zahvcJ9glg)<br>
 The mechanism behind RSA encryption and why it is secure. I found it to be very fascinating because how hard it is to brute force an encrypted data.
