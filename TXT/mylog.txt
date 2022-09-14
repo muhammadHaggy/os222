@@ -11,3 +11,8 @@ ZCZC W01 240 L09 Weekly Assignments
 ZCZC W01 110 L02 ZOOM related
 ZCZC W01  45 L03 GitHub related
 ZCZC W01  10 L05 Quiz
+ZCZC W02 110 L02 ZOOM meetings related
+ZCZC W02 180 L09 Weekly Assignments (reading)
+ZCZC W02  30 L09 Download and install scripts
+ZCZC W02  40 L12 Generating GnuPG Key Pair
+ZCZC W02  60 L80 Watching The Imitation Game about turing machine
