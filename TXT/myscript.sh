@@ -11,10 +11,10 @@
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 # ####################### Replace REC2 ####
-REC2="27AE2DFEF61C2945C82BB4CC1E782FE08C3388E8"
+REC2="38632B39441E7016"
 # ####################### ####### #### ####
 # REC1: public key
-REC1="055FEB594B351CC03DE992C563FB12B215403B20"
+REC1="63FB12B215403B20"
 WEEKURL="https://os.vlsm.org/WEEK/WEEK.txt"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
