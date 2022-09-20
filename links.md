@@ -27,3 +27,14 @@ Quick tutorial for using PGP. Although he uses a tool with GUI, the concept of P
 
 3. [How RSA Works](https://www.youtube.com/watch?v=4zahvcJ9glg)<br>
 The mechanism behind RSA encryption and why it is secure. I found it to be very fascinating because how hard it is to brute force an encrypted data.
+
+# Week 3
+
+1. [Linux File System](https://www.youtube.com/watch?v=HbgzrKJvDRw)<br>
+The video is straight to the point. He will explains many system directory in Linux and what it contains.
+
+2. [File System Mounting](https://www.youtube.com/watch?v=QT1mBAJBuoA)<br>
+Explains what is mounting and why it is done. He also explains the difference between unmounted and mounted volume.
+
+3. [Chmod Tutorial](https://www.youtube.com/watch?v=MFQpdELKTLc)<br>
+Comprehensive tutorial on how to use chmod command. Chmod are used to modify system permission.
