@@ -16,3 +16,7 @@ ZCZC W02 180 L09 Weekly Assignments (reading)
 ZCZC W02  40 L09 Download and install scripts
 ZCZC W02  40 L12 Generating GnuPG Key Pair
 ZCZC W02  60 L80 Watching The Imitation Game about turing machine
+ZCZC W03  90 L02 Tuesday OS ZOOM meeting
+ZCZC W03 110 L00 Thursday offline class
+ZCZC W03 180 L09 Reading PPT, answering previous midterm problems
+ZCZC W03  90 L12 Add An Extra Virtual Disk
