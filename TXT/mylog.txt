@@ -22,3 +22,7 @@ ZCZC W03 180 L09 Reading PPT, answering previous midterm problems
 ZCZC W03  90 L12 Add An Extra Virtual Disk
 ZCZC W03  10 L27 Generate new SSH key with the correct username
 ZCZC W03  20 L05 Quiz week 03
+ZCZC W04 100 L02 Zoom meeting related
+ZCZC W04 100 L99 Face-to-face lecture
+ZCZC W04  25 L25 Pop Quiz
+ZCZC W04  30 L09 Compiling TLPI
