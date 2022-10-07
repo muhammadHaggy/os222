@@ -26,3 +26,9 @@ ZCZC W04 100 L02 Zoom meeting related
 ZCZC W04 100 L99 Face-to-face lecture
 ZCZC W04  25 L25 Pop Quiz
 ZCZC W04  30 L09 Compiling TLPI
+ZCZC W05  15 L22 Accessing SSH Pop Quiz
+ZCZC W05  40 L09 Low Ram Virtualbox configuration
+ZCZC W05 100 L02 Tuesday Zoom Meeting class
+ZCZC W05 100 L00 Offline Class
+ZCZC W05  20 L09 Do tarball memory assignment
+ZCZC W05  15 L05 Quiz Week 05
