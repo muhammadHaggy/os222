@@ -32,3 +32,9 @@ ZCZC W05 100 L02 Tuesday Zoom Meeting class
 ZCZC W05 100 L00 Offline Class
 ZCZC W05  20 L09 Do tarball memory assignment
 ZCZC W05  15 L05 Quiz Week 05
+ZCZC W06 110 L00 tuesday OS offline class (W06)
+ZCZC W06  30 L09 pop quiz
+ZCZC W06  10 L05 Quiz02
+ZCZC W06 110 L00 thursday OS offline class (W06)
+ZCZC W06   5 L05 Quiz01
+ZCZC W06  60 L09 Reading assignment
