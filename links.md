@@ -38,3 +38,37 @@ Explains what is mounting and why it is done. He also explains the difference be
 
 3. [Chmod Tutorial](https://www.youtube.com/watch?v=MFQpdELKTLc)<br>
 Comprehensive tutorial on how to use chmod command. Chmod are used to modify system permission.
+
+# Week 4
+
+1. [Memory Mapping](https://www.youtube.com/watch?v=jkT9Bgz8PAg)<br>
+Quick overview video of memory mapping. Memory mapping is the way computer treats peripheral devices as if they were located in the main memory.
+
+2. [What is Pointer?](https://www.youtube.com/watch?v=f2i0CnUOniA)<br>
+This video discussed about the definition of pointer in C programming. It also talks about its example in real world C programming.
+
+3. [Pointer and Dynamic Memory](https://www.youtube.com/watch?v=_8-ht2AKyH4)<br>
+The video explains the concept of dynamic memory allocation in C. It also discussed how memory is managed in Application. He also explains a little bit of stack and heap fundamental concept.
+
+# Week 5
+
+1. [Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8)<br>
+This is a introduction video of what is a virtual memory. It also explains the role of virtual memory in real world examples.
+
+2. [Caching Simply Explained](https://www.youtube.com/watch?v=6FyXURRVmR0)<br>
+The video provide good explanation about what is cache and why it is important. It also explains the principle of caching. Cache is required in many platform to provide high speed data storage layer that store subset of data.
+
+3. [Memory Allocation in C](https://www.youtube.com/watch?v=v49bwqQ4ouM)<br>
+The video uses C language to explains the concept of dynamic memory allocation. The material related to the pointer concept in the week 4 video.
+
+# Week 6
+
+1. [Multithreading](https://www.youtube.com/watch?v=7ENFeb-J75k)<br>
+The video explains how multithreading works in C language and how the machine code implements it. A thread is a flow of execution through the process code, with its own program counter that keeps track of which instruction to execute next, and system registers which hold its current working variables.
+
+2. [CPU Process Scheduling](https://www.youtube.com/watch?v=exlaEOVRWQM)<br>
+This video explains FCFS, SJF, SRTF, and Round Robin Scheduling Algorithm.
+Those algorithms use FIFO and LIFO principals in managing Process Scheduling.
+
+3. [Process States](https://www.tutorialspoint.com/what-are-the-different-states-of-a-process)<br>
+The web explains the different states of process execution. You can always look back at this link when you encounter problems related to processing states.
