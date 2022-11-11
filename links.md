@@ -72,3 +72,11 @@ Those algorithms use FIFO and LIFO principals in managing Process Scheduling.
 
 3. [Process States](https://www.tutorialspoint.com/what-are-the-different-states-of-a-process)<br>
 The web explains the different states of process execution. You can always look back at this link when you encounter problems related to processing states.
+
+# Week 7
+
+1. [Process Synchronization](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)
+This website explains about synchronization in a simple way. There are also some images to help explaining the concepts.
+
+2. [Deadlock](https://www.scaler.com/topics/operating-system/deadlock-in-os/)
+This website explains about deadlocks in OS. The explanation is simple and easy to understand. There are also some diagrams and table to help explaining the concepts.

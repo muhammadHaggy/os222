@@ -38,3 +38,10 @@ ZCZC W06  10 L05 Quiz02
 ZCZC W06 110 L00 thursday OS offline class (W06)
 ZCZC W06   5 L05 Quiz01
 ZCZC W06  60 L09 Reading assignment
+ZCZC W07 110 L00 tuesday OS offline class (W07)
+ZCZC W07  40 L09 pop quiz
+ZCZC W07  10 L05 Quiz02
+ZCZC W07 110 L00 thursday OS offline class (W07)
+ZCZC W07   5 L05 Quiz01
+ZCZC W07  60 L09 Reading assignment
+ZCZC W07  60 L09 Do synchronization assignment
