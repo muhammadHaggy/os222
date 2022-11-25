@@ -80,3 +80,11 @@ This website explains about synchronization in a simple way. There are also some
 
 2. [Deadlock](https://www.scaler.com/topics/operating-system/deadlock-in-os/)
 This website explains about deadlocks in OS. The explanation is simple and easy to understand. There are also some diagrams and table to help explaining the concepts.
+
+# Week 9
+
+1. [Process Scheduling](https://www.youtube.com/watch?v=5m3jE0RUbUk&list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP)
+How to do LFS from scratch
+
+2. [Linux from scratch](https://www.youtube.com/watch?v=5m3jE0RUbUk&list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP)
+Summary of scheduling in OS.

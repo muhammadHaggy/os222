@@ -53,5 +53,14 @@ ZCZC W08   5 L09 Do popquiz2 W08 (scp from os1)
 ZCZC W08 105 L02 Thursday OS Online ZOOM class (W08)
 ZCZC W08  5 L05 Quiz02 week 08
 ZCZC W08 10 L05 Quiz01 week 08
-ZCZC W08  5 Popquiz2 week 08
-ZCZC W08 10 Popquiz3 week 08
+ZCZC W08  5 L09 Popquiz2 week 08
+ZCZC W08 10 L09 Popquiz3 week 08
+ZCZC W09  40 L01 Reading assignment
+ZCZC W09  10 L09 Scripts week 09
+ZCZC W09 100 L00 General: tuesday OS offline class (W08)
+ZCZC W09 180 L09 LFS Chapters 6-7 completed
+ZCZC W09 105 L02 Thursday OS Online ZOOM class (W09)
+ZCZC W09   5 L05 Quiz02 week 09
+ZCZC W09  10 L05 Quiz01 week 09
+ZCZC W08  10 L09 Popquiz1 week 09
+
